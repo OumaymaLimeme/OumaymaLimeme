@@ -30,6 +30,13 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
+<p align="center">
+<a href="https://github.com/OumaymaLimeme">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OumaymaLimeme&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OumaymaLimeme&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oumaymalimeme&show_icons=true&locale=en&layout=compact" alt="oumaymalimeme" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oumaymalimeme&show_icons=true&locale=en" alt="oumaymalimeme" /></p>
