@@ -4,7 +4,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 
-<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/7aa780f97d51af2b67ff9ca2afa89ef67907c7b21abe9c7f8fb63fa707cf629a/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3034322f3633312f3238362f6f726967696e616c2f627279616e2d726f6472696775657a2d62656c6368696269612d312d726967687473706565642e6769663f31363335303337353632](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeagif.com%2Fgif%2Fcode-fi-lofi-beats-to-coderelax-to-FvBVst&psig=AOvVaw1Ley28cqG1xO4eJ7nS9cSp&ust=1705530506030000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqGAoTCKi8qrb64oMDFQAAAAAdAAAAABCeAQ)">
+<img align="right" alt="Coding" width="400" src="[[https://camo.githubusercontent.com/7aa780f97d51af2b67ff9ca2afa89ef67907c7b21abe9c7f8fb63fa707cf629a/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3034322f3633312f3238362f6f726967696e616c2f627279616e2d726f6472696775657a2d62656c6368696269612d312d726967687473706565642e6769663f31363335303337353632](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeagif.com%2Fgif%2Fcode-fi-lofi-beats-to-coderelax-to-FvBVst&psig=AOvVaw1Ley28cqG1xO4eJ7nS9cSp&ust=1705530506030000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqGAoTCKi8qrb64oMDFQAAAAAdAAAAABCeAQ)](https://drive.google.com/file/d/1nvtRqZq0HvF92NFoWOSf7FuQkPquDUj6/view?usp=drive_link)">
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
 
