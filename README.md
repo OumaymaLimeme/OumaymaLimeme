@@ -4,11 +4,11 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 
-<img align="right" alt="Coding" width="400" src="https://github.com/OumaymaLimeme/OumaymaLimeme/blob/main/oumayma.gif">
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
+<img align="right" alt="Coding" width="300" src="https://github.com/OumaymaLimeme/OumaymaLimeme/blob/main/oumayma.gif">
 
 🎓 &nbsp;I'm currently studying Computer Science at National Engineering School of Carthage (ENICarthage) Tunisia.
+
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
 
 🔭 &nbsp;I'm on track for learning more about Full Stack Web Development, Systems Design, and Cloud Architecture.
 
