@@ -10,7 +10,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
 
-🔭 &nbsp;I'm on track for learning more about Full Stack Web Development, Systems Design, and Cloud Architecture.
+🔭 &nbsp;I'm on track for learning more about Full Stack Development, Systems Design, and Cloud Architecture.
 
 👯 I’m looking to collaborate on **on Any suggestion that may boost my career**
 
