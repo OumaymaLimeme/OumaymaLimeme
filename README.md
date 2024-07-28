@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Oumayma Limeme</h1>
-<h3 align="center">A passionate Software engineer from Tunisia</h3>
+<h1 align="center">Hi, I'm Oumayma Limeme</h1>
+<h3 align="center">A Junior Software engineer from Tunisia</h3>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp; A little more about me
 
 
 <img align="right" alt="Coding" width="300" src="https://github.com/OumaymaLimeme/OumaymaLimeme/blob/main/oumayma.gif">
 
-🎓 &nbsp;I'm currently studying Computer Science at National Engineering School of Carthage (ENICarthage) Tunisia.
+👨‍💻 Working at 
+ 
+🎓 &nbsp; Freshly Graduated as a software engineer from the National Engineering School of Carthage (ENICarthage) in Tunisia.
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
 
@@ -14,7 +16,12 @@
 
 👯 I’m looking to collaborate on **on Any suggestion that may boost my career**
 
-📫 How to reach me **oumayma2000limeme@gmail.com**
+📫 Where to find me
+Email: **oumaymalimeme@gmail.com**
+Portfolio: **https://oumeimalimeme.netlify.app/**
+<p><a href="https://github.com/OumaymaLimeme" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/oumaymalimeme/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
