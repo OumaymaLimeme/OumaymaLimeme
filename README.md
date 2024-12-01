@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Oumayma Limeme</h1>
-<h3 align="center">A Junior Software engineer from Tunisia</h3>
+<h3 align="center">Junior Software engineer from Tunisia</h3>
 
-### 👨🏻‍💻 &nbsp; A little more about me
+### 👨🏻‍💻 &nbsp; About me
 
 
 <img align="right" alt="Coding" width="300" src="https://github.com/OumaymaLimeme/OumaymaLimeme/blob/main/oumayma.gif">
