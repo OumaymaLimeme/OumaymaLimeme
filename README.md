@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Oumeima Limeme 👋</h1>
-<h3 align="center">Software Engineer | Frontend & Full Stack Developer | Based in Tunisia 🇹🇳</h3>
+<h3 align="center">Software Engineer | Full Stack Developer | Based in Tunisia 🇹🇳</h3>
 
 ---
 
@@ -14,8 +14,7 @@
 🚀 Passionate about building performant, secure, and scalable software for web and mobile.
 
 🧠 Constantly learning and growing in:
-- Full Stack Development (React, Angular, Spring Boot)
-- Systems Intelligence & Cybersecurity
+- Full Stack Development (React, Angular, React Native, Spring Boot, NodeJs)
 - DevOps and CI/CD automation
 - Cloud infrastructure and data analytics
 
