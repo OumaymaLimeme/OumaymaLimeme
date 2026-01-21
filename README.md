@@ -9,7 +9,6 @@
 
 🎓 I hold a Master's degree in Software Engineering and Distributed Systems from the National Engineering School of Carthage (ENICarthage), Tunisia.
 
-💼 Currently working at **EVIMO**.
 
 🚀 Passionate about building performant, secure, and scalable software for web and mobile.
 
