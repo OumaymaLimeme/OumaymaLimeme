@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Oumeima Limeme 👋</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | Based in Tunisia 🇹🇳</h3>
+<h3 align="center">Software Engineer | Full Stack Developer | From Tunisia 🇹🇳</h3>
 
 ---
 
