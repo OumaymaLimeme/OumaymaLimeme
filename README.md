@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://github.com/OumaymaLimeme/OumaymaLimeme/blob/main/oumayma.gif">
 
-🎓 I hold a Master's degree in Software Engineering and Distributed Systems from the National Engineering School of Carthage (ENICarthage), Tunisia.
+🎓 I hold a Master's degree in Software Engineering from the National Engineering School of Carthage (ENICarthage), Tunisia.
 
 
 🚀 Passionate about building performant, secure, and scalable software for web and mobile.
