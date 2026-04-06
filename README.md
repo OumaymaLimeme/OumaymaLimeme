@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Oumayma Limeme 👋</h1>
-<h3 align="center">Software Engineer • Full-Stack Developer • Tunisia 🇹🇳</h3>
+<h3 align="center">Software Engineer • Full-Stack Developer • Based in Germany 🇩🇪</h3>
 
 ---
 
@@ -7,16 +7,18 @@
 
 <img align="right" alt="Coding" width="300" src="./oumayma.gif" />
 
-🎓 I hold a **Master’s degree in Software Engineering** from **ENICarthage (National Engineering School of Carthage)**, Tunisia.  
+🎓 I hold a **Master’s degree in Software Engineering** from **ENICarthage (National Engineering School of Carthage)**, Tunisia.
 
-🚀 I enjoy building **performant, secure, and scalable** web and mobile applications—from backend APIs to polished UIs.
+💼 Currently working as a **Software Engineer** at **Unishere GmbH**, Germany 🇩🇪 — building innovative solutions in a dynamic international environment.
 
-🧠 Currently growing in:
-- **Full‑Stack Development:** React, Angular, React Native, Spring Boot, Node.js  
+🚀 I’m passionate about crafting **performant, secure, and scalable** web and mobile applications — from robust backend APIs to polished, user-friendly UIs.
+
+🧠 Continuously growing in:
+- **Full‑Stack Development:** React, Angular, React Native, Spring Boot, Node.js
 - **DevOps & CI/CD automation**
 - **Cloud infrastructure & data analytics**
 
-💡 I like solving real-world problems, optimizing system performance, and turning ideas into production-ready solutions.
+💡 I love solving real-world problems, optimizing system performance, and turning ideas into production-ready solutions.
 
 🤝 Open to collaboration, mentorship, and exciting engineering challenges.
 
