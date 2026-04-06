@@ -7,9 +7,10 @@
 
 <img align="right" alt="Coding" width="300" src="./oumayma.gif" />
 
-🎓 I hold a **Master’s degree in Software Engineering** from **ENICarthage (National Engineering School of Carthage)**, Tunisia.
+🎓 I hold a **Master’s degree in Software Engineering** from **ENICarthage (National Engineering School of Carthage)**, Tunisia 🇹🇳
+.
 
-💼 Currently working as a **Software Engineer** at **Unishere GmbH**, Germany 🇩🇪 — building innovative solutions in a dynamic international environment.
+💼 Currently working as a **Software Engineer** at **Unishere GmbH**, Germany 🇩🇪  building innovative solutions in a dynamic international environment.
 
 🚀 I’m passionate about crafting **performant, secure, and scalable** web and mobile applications — from robust backend APIs to polished, user-friendly UIs.
 
