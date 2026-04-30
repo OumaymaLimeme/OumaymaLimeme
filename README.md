@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Oumayma Limeme 👋</h1>
-<h3 align="center">Software Engineer • Full-Stack Developer • Based in Germany 🇩🇪</h3>
+<h3 align="center">Full-Stack Developer • Based in Germany 🇩🇪</h3>
 
 ---
 
@@ -14,9 +14,9 @@
 🚀 I'm passionate about crafting **performant, secure, and scalable** web and mobile applications — from robust backend APIs to polished, user-friendly UIs.
 
 🧠 Continuously growing in:
-- **Full‑Stack Development:** React, Angular, React Native, Spring Boot, Node.js
+- **Full‑Stack Development:** React, Angular, VueJs, React Native, FastApi, Node.js
 - **DevOps & CI/CD automation**
-- **Cloud infrastructure & data analytics**
+- **Cloud infrastructure**
 
 💡 I love solving real-world problems, optimizing system performance, and turning ideas into production-ready solutions.
 
